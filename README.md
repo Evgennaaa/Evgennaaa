@@ -17,6 +17,6 @@
 
 ---
 
-### 📬 Контакты  
+### Контакты  
 
 [![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/evgennaaaa)
