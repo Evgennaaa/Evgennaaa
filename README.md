@@ -20,6 +20,6 @@
 ### Контакты  
 
 [![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/evgennaaaa)
-[![Email](https://img.shields.io/badge/Email-D14836?style=social&logo=protonmail)](mailto:alice.iwa@yandex.ru)
+[![Email](https://img.shields.io/badge/Email-D14836?style=social&logo=maildotru)](mailto:alice.iwa@yandex.ru)
 [![Stepik](https://img.shields.io/badge/STEPIK-000000?style=for-the-badge&logo=stepik&logoColor=white)](https://stepik.org/users/238588738)
 
