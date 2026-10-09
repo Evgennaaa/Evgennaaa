@@ -20,3 +20,4 @@
 ### Контакты  
 
 [![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/evgennaaaa)
+[![Stepik](https://img.shields.io/badge/STEPIK-000000?style=for-the-badge&logo=stepik&logoColor=white)](https://stepik.org/users/238588738)
